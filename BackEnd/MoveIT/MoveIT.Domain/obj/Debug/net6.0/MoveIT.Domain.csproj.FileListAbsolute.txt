@@ -1,0 +1,14 @@
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\MoveIT.Domain.csproj.AssemblyReference.cache
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\MoveIT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\MoveIT.Domain.AssemblyInfoInputs.cache
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\MoveIT.Domain.AssemblyInfo.cs
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\MoveIT.Domain.csproj.CoreCompileInputs.cache
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\bin\Debug\net6.0\MoveIT.Domain.deps.json
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\bin\Debug\net6.0\MoveIT.Domain.runtimeconfig.json
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\bin\Debug\net6.0\MoveIT.Domain.dll
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\bin\Debug\net6.0\MoveIT.Domain.pdb
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\MoveIT.Domain.dll
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\refint\MoveIT.Domain.dll
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\MoveIT.Domain.pdb
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\MoveIT.Domain.genruntimeconfig.cache
+X:\MoveIT\BackEnd\MoveIT\MoveIT.Domain\obj\Debug\net6.0\ref\MoveIT.Domain.dll

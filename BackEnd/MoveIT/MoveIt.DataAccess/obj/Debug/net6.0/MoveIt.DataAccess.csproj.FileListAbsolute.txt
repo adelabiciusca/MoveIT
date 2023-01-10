@@ -1,0 +1,17 @@
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\MoveIt.DataAccess.csproj.AssemblyReference.cache
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\MoveIt.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\MoveIt.DataAccess.AssemblyInfoInputs.cache
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\MoveIt.DataAccess.AssemblyInfo.cs
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\MoveIt.DataAccess.csproj.CoreCompileInputs.cache
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\bin\Debug\net6.0\MoveIt.DataAccess.deps.json
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\bin\Debug\net6.0\MoveIt.DataAccess.runtimeconfig.json
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\bin\Debug\net6.0\MoveIt.DataAccess.dll
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\bin\Debug\net6.0\MoveIt.DataAccess.pdb
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\MoveIt.DataAccess.dll
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\refint\MoveIt.DataAccess.dll
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\MoveIt.DataAccess.pdb
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\MoveIt.DataAccess.genruntimeconfig.cache
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\ref\MoveIt.DataAccess.dll
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\bin\Debug\net6.0\MoveIT.Domain.dll
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\bin\Debug\net6.0\MoveIT.Domain.pdb
+X:\MoveIT\BackEnd\MoveIT\MoveIt.DataAccess\obj\Debug\net6.0\MoveIt.DataAccess.csproj.CopyComplete
